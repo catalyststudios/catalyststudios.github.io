@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Catalyst Studios</title>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300">  <!-- Google web font "Open Sans" -->
+<link rel="stylesheet" href="css/bootstrap.min.css">                                  <!-- https://getbootstrap.com/ -->
+<link rel="stylesheet" href="fontawesome/css/fontawesome-all.min.css">                <!-- https://fontawesome.com/ -->
+<link rel="stylesheet" type="text/css" href="slick/slick.css"/>                       <!-- http://kenwheeler.github.io/slick/ -->
+<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+<link rel="stylesheet" href="css/tooplate-style.css">                               <!-- Templatemo style -->
+
+<script>document.documentElement.className="js";var supportsCssVars=function(){var e,t=document.createElement("style");return t.innerHTML="root: { --tmp-var: bold; }",document.head.appendChild(t),e=!!(window.CSS&&window.CSS.supports&&window.CSS.supports("font-weight","var(--tmp-var)")),t.parentNode.removeChild(t),e};supportsCssVars()||alert("Please view this in a modern browser such as latest version of Chrome or Microsoft Edge.");</script>
+    
+</head>
+
+<body>
+<div id="tm-bg"></div>
+<div id="tm-wrap">
+<div class="tm-main-content">
+<div class="container tm-site-header-container">
+<div class="row">
+<div class="col-sm-12 col-md-6 col-lg-6 col-md-col-xl-6 mb-md-0 mb-sm-4 mb-4 tm-site-header-col">
+<div class="tm-site-header">
+<h1 class="mb-5">Catalyst Studios</h1>
+<img src="img/underline.png" class="img-fluid mb-4">
+<a>We act as a catalyst in your <br> digital world of</a><a style="color: pink;"> Marketing</a>       
+</div>                        
+</div>
+                          
+<div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+<div class="content">
+<div class="grid">
+<H2 style="text-decoration: bold;">Website Development</h2>
+<p style="color: #ffd6fb;">Your website is the most important factor in this digital world as it validates your authenticity.
+It also helps to deliver your message noise free and also creates your brand image.<br>
+Our competent web development team is always ready to help you in designing and development of website.
+Even if you have a website which is not upto mark we more than happy to restructure it for you.<br>
+</p>
+</div>
+</div>
+</script>
+
+</body>
+</html>
